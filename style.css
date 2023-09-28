@@ -1,0 +1,36 @@
+:root {
+  /*background-image: url("https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2019/11/Hokkaido-Asahikawa-City.jpg");*/
+  background-image: url("https://images.unsplash.com/photo-1528164344705-47542687000d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1792&q=80");
+  background-size: cover;
+  font-family: "Garamond", sans-serif;
+  text-align: center;
+}
+h2 {
+  font-family: "Pacifico", serif;
+  padding: 15px;
+}
+
+.black_box {
+  background-color: rgba(0, 0, 0, .9);
+  color: white;
+  font-size: large;
+  text-align: center;
+  width: 325px;
+  height: 325px;
+  margin-top: 50px;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+}
+
+.flag-img {
+  width: 100px;
+  height: 100px;
+  margin-top: 40px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.search {
+  padding: 15px;
+}
